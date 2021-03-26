@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e21097a-5b0e-4e22-9619-fef9cdec1a32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
@@ -93,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616723741207</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="view 추가 및 템플릿 사용">
+      <created>1616725579069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616725579069</updated>
+    </task>
+    <task id="LOCAL-00005" summary="누락된 데이터 추가">
+      <created>1616725593960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616725593960</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +128,8 @@
     <MESSAGE value="django project 생성" />
     <MESSAGE value="첫번째 뷰 작성" />
     <MESSAGE value="모델 생성 및 admin 적용" />
-    <option name="LAST_COMMIT_MESSAGE" value="모델 생성 및 admin 적용" />
+    <MESSAGE value="view 추가 및 템플릿 사용" />
+    <MESSAGE value="누락된 데이터 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="누락된 데이터 추가" />
   </component>
 </project>
